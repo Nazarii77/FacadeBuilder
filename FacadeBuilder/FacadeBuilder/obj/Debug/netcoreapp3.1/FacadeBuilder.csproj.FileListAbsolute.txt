@@ -1,0 +1,13 @@
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.exe
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.deps.json
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.runtimeconfig.json
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.runtimeconfig.dev.json
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.dll
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\bin\Debug\netcoreapp3.1\FacadeBuilder.pdb
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.csprojAssemblyReference.cache
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.AssemblyInfoInputs.cache
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.AssemblyInfo.cs
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.csproj.CoreCompileInputs.cache
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.dll
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.pdb
+D:\Flutter\InterfaceSegregationPrinciple\FluentBuilderInheritance\FacadeBuilder\FacadeBuilder\FacadeBuilder\obj\Debug\netcoreapp3.1\FacadeBuilder.genruntimeconfig.cache
